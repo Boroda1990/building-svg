@@ -1,0 +1,25 @@
+.stage {
+  fill: #00000040;
+  stroke: #00000078;
+  opacity: 0;
+}
+
+.stage:hover {
+  opacity: 1;
+}
+
+.col-md-4 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.build-info__floor {
+
+  font-size: 20px;
+
+}
+
+.build-info__room {
+  font-size: 23px;
+}
